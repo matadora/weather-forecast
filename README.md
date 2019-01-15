@@ -1,5 +1,5 @@
 # weather-forecast
-## Forecast 16-20 Jan, 2019 from https://openweathermap.org/
+Forecast 16-20 Jan, 2019 from https://openweathermap.org/
 <br><br>
 Three generated graphs:<br>
   1. Temperature & Humidity in Adelaide<br>
